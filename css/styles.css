@@ -37,23 +37,23 @@ h3{
 }
 .top-cat{
     position: absolute;
-    right: 10%;
-    top:5%;
-    height: 250px;
-    width: 384px;
+    right: 10rem;
+    top:10rem;
+    height: 15.625rem;
+    width: 20.625rem;
 
 }
 .bottom-cat{
     position: absolute;
-    right: 70%;
-    top: 15%;
-    height: 250px;
-    width: 384px;
+    right: 90rem;
+    top: 35rem;
+    height: 15.625rem;
+    width: 20.625rem;
 
 }
 .skill-icon{
-    height: 100px;
-    width: 100px;
+    height: 6.25rem;
+    width: 6.25rem;
 }
 .profile{
     font-size:2rem ;
